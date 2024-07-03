@@ -1,0 +1,11 @@
+@media (max-width: 576px){
+    .banner .container .img1{
+     display: none;
+    }
+    .banner .container .img2{
+       display: none;
+    }
+    .foot-head{
+        width: 100%;
+    }
+}
