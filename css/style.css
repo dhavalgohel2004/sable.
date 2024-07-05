@@ -18,7 +18,7 @@ body {
 /**********************************************/
 .banner {
     background-color: black;
-    height: auto;
+    height: 100vh;
     background-image: url('../images/div.png');
     background-position: center;
     background-repeat: no-repeat;
