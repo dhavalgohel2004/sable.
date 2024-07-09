@@ -207,3 +207,33 @@ body {
 .banner6{
     height: auto;
 }
+.banner7{
+    height: 80vh;
+}
+.banner7 .main{
+    background-image: url('../images/crowd.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner7 .main .overly{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(194, 194, 194, 0.3);
+}
+.banner7 .main .overly .circle-effect{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255, 150, 150, 0.5);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(50%, 50%);
+}
+.banner7 .simbole img{
+    height: 40px;
+}
+footer{
+    height: auto;
+}
